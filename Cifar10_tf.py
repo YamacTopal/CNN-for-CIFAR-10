@@ -52,7 +52,7 @@ print(f"Test accuracy: {test_acc:.4f}")
 #Testing with one image
 
 # Load an image
-image_path = 'sailing_ship.png'
+image_path = 'filepath.jpg'
 img = Image.open(image_path)
 
 # Resize the image to 32x32 pixels
